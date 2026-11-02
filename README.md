@@ -19,7 +19,7 @@ I'm learning through building — working on practical projects and challenges w
 
 ### 📚 Currently Learning
 
-React · React Router · State Management · Custom Hooks
+Node, express, sql,
 
 ### 🎯 Current Goal
 
