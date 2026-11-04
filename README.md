@@ -15,11 +15,11 @@ I'm learning through building — working on practical projects and challenges w
 ### 💻 Technologies
 
 **Frontend:** HTML · CSS · JavaScript · React  
-**Backend experience:** NodeJS · Express · MongoDB
+**Backend experience:** NodeJS · Express · sql
 
 ### 📚 Currently Learning
 
-Node, express, sql,
+Node, express, sql, psql
 
 ### 🎯 Current Goal
 
