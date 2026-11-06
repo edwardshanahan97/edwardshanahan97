@@ -6,7 +6,7 @@ I'm learning through building — working on practical projects and challenges w
 
 ### 🚀 What I'm working on
 
-- ⚛️ Building projects with React
+- ⚛️ Building projects with React 
 - 🧠 Improving my JavaScript through practical development
 - 🌐 Working with APIs and asynchronous JavaScript
 - 📱 Building responsive and accessible interfaces
@@ -19,7 +19,7 @@ I'm learning through building — working on practical projects and challenges w
 
 ### 📚 Currently Learning
 
-Node, express, sql, psql
+Node, express, sql, psql, and mongodb
 
 ### 🎯 Current Goal
 
