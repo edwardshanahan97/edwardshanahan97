@@ -19,8 +19,4 @@ I'm learning through building — working on practical projects and challenges w
 
 ### 📚 Currently Learning
 
-Node, express, sql, psql, and mongodb
-
-### 🎯 Current Goal
-
-To keep building, improve my skills through real projects, and work towards my first development role.
+Node, express, sql, psql
