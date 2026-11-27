@@ -19,4 +19,4 @@ I'm learning through building — working on practical projects and challenges w
 
 ### 📚 Currently Learning
 
-Node, express, sql, psql, Typescript
+Node, express, sql, psql, Typescript, mongodb
